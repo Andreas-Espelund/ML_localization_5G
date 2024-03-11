@@ -56,7 +56,9 @@ tested this against anything else. I'm still in the experimental phase in regard
 techniques, Machine Learning and statistics in general, so take this with a pinch of salt.
 
 
-![Plot](plot.png)
+![Plot](c1_100000_results.png)
+
+![Plot](c1_10000_results.png)
 
 ## Acknowledgments
 
